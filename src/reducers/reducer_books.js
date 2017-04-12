@@ -4,5 +4,5 @@ export default function() {
     { title: 'Ruby book' },
     { title: '.Net book' },
     { title: 'Java book'}
-  ]
+  ];
 }
