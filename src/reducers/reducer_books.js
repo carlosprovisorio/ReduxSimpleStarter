@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'javascript book' },
-    { title: 'Ruby book' },
-    { title: '.Net book' },
-    { title: 'Java book'}
+    { title: 'javascript book', pages: 101 },
+    { title: 'Ruby book', pages: 90 },
+    { title: '.Net book', pages: 80 },
+    { title: 'Java book', pages: 200}
   ];
 }
